@@ -1,1 +1,1 @@
-# CV
+# Diabetes Prediction using SVM
